@@ -1,4 +1,4 @@
-# Addon to count elements of selected text #
+# Sanalaskuri #
 
 * Tekijä: Rui Fontes <rui.fontes@tiflotecnia.com>
 * Lataa [vakaa versio][1]

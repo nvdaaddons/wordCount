@@ -1,4 +1,4 @@
-[[!meta title="Componente aggiuntivo utile a contare gli elementi del testo selezionato]]
+# Componente aggiuntivo utile a contare gli elementi del testo selezionato #
 
 * Autore: Rui Fontes <rui.fontes@tiflotecnia.com>
 * Download [versione stabile][1]
