@@ -6,14 +6,14 @@
 
 ## Primjena ##
 Ovaj dodatak javlja broj riječi, znakova, odlomaka i redaka u odabranom
-tekstu, pritiskom tipki Control Shift+F12.
+tekstu, pritiskom tipki kontrol+šift+F12.
 
 Napomena: U nekim aplikacijama, kao što su Word, WordPad i DSpeech, javlja
 samo riječ i znakove, kako bi se izbjegli zastoji u NVDA čitaču.
 
 U bilo kojem uređivaču teksta ili virtualnom dokumentu (npr. u web
 pregledniku, PDF-u, osnovnom tekstu e-pošte itd.) odaberi željeni tekst
-pomoću uobičajenih naredbi za odabir teksta i pritisni Control+Shift+F12.
+pomoću uobičajenih naredbi za odabir teksta i pritisni kontrol+šift+F12.
 
 Ova se naredba može promijeniti u dijaloškom okviru „Ulazne geste” u
 odjeljku „Uređivanje teksta”.

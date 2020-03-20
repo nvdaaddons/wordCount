@@ -1,8 +1,8 @@
-# Doplnok na zistenie štatistiky vybratého textu #
+# Štatistika textu #
 
 * Autor: Rui Fontes <rui.fontes@tiflotecnia.com>
-* Stiahnuť [Stabilnú verziu][1]
-* Funguje s NVDA 2017.2 to 2019.1
+* Stiahnuť [stabilnú verziu][1]
+* Funguje s NVDA 2017.2 až 2019.1
 
 ## Použitie ##
 Skratkou ctrl+shift+F12 môžete zistiť počet znakov, slov a odsekov vo
