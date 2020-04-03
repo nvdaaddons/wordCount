@@ -1,4 +1,4 @@
-# Addon to count elements of selected text #
+# 文本元素计数器 #
 
 * 作者: Rui Fontes <rui.fontes@tiflotecnia.com>
 * 下载[稳定版][1]
