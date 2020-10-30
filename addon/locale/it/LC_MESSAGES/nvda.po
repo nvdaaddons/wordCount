@@ -1,0 +1,59 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the wordCount package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: wordCount 1.4\n"
+"Report-Msgid-Bugs-To: nvda-translations@freelists.org\n"
+"POT-Creation-Date: 2019-04-09 02:24+1000\n"
+"PO-Revision-Date: 2020-10-25 12:34+0100\n"
+"Language: it\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Last-Translator: Fabrizio Marini <marini.carlo@fastwebnet.it>\n"
+"Language-Team: \n"
+"X-Generator: Poedit 2.4.1\n"
+
+#. For translators: Message to announce when no text is selected
+msgid "select some text first."
+msgstr "prima selezionate del testo."
+
+#. For translators: Message to announce the number of words and characters
+#, python-brace-format
+msgid "{arg0} words and {arg1} characters"
+msgstr "{arg0} parole e {arg1} caratteri"
+
+#. For translators: Message to announce the number of words, characters, paragraphs and lines
+#, python-brace-format
+msgid ""
+"{arg0} words and {arg1} characters in {arg2} paragraphs and {arg3} lines"
+msgstr "{arg0} parole e {arg1} caratteri in {arg2} paragrafi e {arg3} righe"
+
+#. For translators: Message to be announced during Keyboard Help
+msgid "Announces the number of elements in the selected text."
+msgstr "Annuncia il numero degli elementi nel testo selezionato."
+
+#. For translators: Name of the section in "Input gestures" dialog.
+msgid "Text editing"
+msgstr "Revisione del testo"
+
+#. Add-on summary, usually the user visible name of the addon.
+#. Translators: Summary for this add-on to be shown on installation and add-on information.
+msgid "Count elements of the selected text"
+msgstr "Conta gli elementi del testo selezionato"
+
+#. Add-on description
+#. Translators: Long description to be shown for this add-on on add-on information from add-ons manager
+msgid ""
+"announces the number of words, characters, paragraphs and lines of the "
+"selected text when you select some text and press Control+Shift+F12. In some "
+"aplications, like Word, WordPad and DSpeech, it only announces word and "
+"characters, to avoid hanging NVDA."
+msgstr ""
+"legge il numero delle parole, caratteri, paragrafi e righe presenti nel "
+"testo selezionato, quando si seleziona del testo e si preme Control+Shift"
+"+F12. In alcune applicazioni, come Word, WordPad and DSpeech, legge solo il "
+"numero delle parole e dei caratteri, per evitare di bloccare NVDA."
