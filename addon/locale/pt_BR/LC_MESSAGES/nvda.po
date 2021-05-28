@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: wordCount 1.4\n"
-"Report-Msgid-Bugs-To: nvda-translations@freelists.org\n"
+"Report-Msgid-Bugs-To: nvda-translations@groups.io\n"
 "POT-Creation-Date: 2020-02-07 22:15+1000\n"
 "PO-Revision-Date: 2020-02-21 21:26-0300\n"
 "Last-Translator: Cleverson Casarin Uliana <clever97@gmail.com>\n"
